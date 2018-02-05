@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+ul li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(12, 12, 12, 0.99);
+}
+
+.fixed {
+  position: fixed;
+}
+
+.tc {
+  text-align: center;
+}
+td{
+  text-align: center;
+}
